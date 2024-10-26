@@ -48,7 +48,7 @@ This project is built with HTML, CSS, and JavaScript. It features a responsive d
 --- 
 
 ## 📦 Technologies Used
-- **HTML:** Structure of the game.
+- **HTML5:** Structure of the game.
 - **CSS:** Styling and layout.
 - **JavaScript:** Game logic and interactivity.
 
