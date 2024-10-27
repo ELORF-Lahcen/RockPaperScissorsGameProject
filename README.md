@@ -1,5 +1,9 @@
 # ✂️ RockPaperScissorsGameProject ✋
 
+![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![Responsive](https://img.shields.io/badge/Responsive-Design-green.svg)
+
+---
+
 An interactive Rock, Paper, Scissors game that lets you play against the computer, featuring a sleek design and a responsive layout.
 
 ---
